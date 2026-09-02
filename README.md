@@ -1,1 +1,1 @@
-My project readme update # Troubleshooting.
+# Week 1 Summary  : ## What I Learned               -Learned basic Git commands and vers                -How to create branches and push code to GitHub.    ## Work Done                                        -Set up the repository and made commits.            -Created the Week1 branch and documented my progress.                                           -Initialized and set up the 'habeebah-week-1-project1' respository.             -Made and pushed meaningful commits to the 'main' branch.
