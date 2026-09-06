@@ -3,18 +3,16 @@ body {
     font-family: Arial, sans-serif;
     max-width: 600px;
     margin:  0 auto;
-    padding: 20px6;
-    .card{
-        background-color: white;
+    padding: 20px;
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+       .card{
+         background-color: white;
         padding: 15px;
         margin-bottom: 15px;
         border-radius: 6px;
+        flex: 1 1 250px;
     }
-    .text-center {
-        text-align: center;
-    }
-    .highlight {
-        color: #0066cc;
-        font-weight: bold;
-    }
-}
